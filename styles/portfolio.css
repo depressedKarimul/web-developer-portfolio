@@ -175,3 +175,13 @@ main section{
   text-align: center;
   margin-top: 50px;
 }
+
+
+/* footer style*/
+
+footer{
+  display: flex;
+  background : #FFF8F3;
+  padding: 130PX 200PX;
+  margin-top: 100px;
+}
